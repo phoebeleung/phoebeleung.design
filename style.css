@@ -56,18 +56,20 @@ body {
   color: #DCFCE3;
   padding: 0;
   margin: 0;
-  width: 550px;
-  min-width: 80%;
+  width: 500px;
+  min-width: 50%;
 }
 
-/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
-@media screen and (max-width: 300px) {
+/* If the screen size is 300px or less, set the font-size of <div> to 80px */
+@media screen and (max-width: 500px) {
   body {
-    font-size: 12px;
+    font-size: 14px;
+		min-width: 90%;
+		margin: auto;
   }
 
 	h3 {
-		font-size: 20px;
+		font-size: 25px;
 	}
 
 }
