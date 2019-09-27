@@ -57,7 +57,19 @@ body {
   padding: 0;
   margin: 0;
   width: 550px;
-  max-width: 80%;
+  min-width: 80%;
+}
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (max-width: 300px) {
+  body {
+    font-size: 12px;
+  }
+
+	h3 {
+		font-size: 20px;
+	}
+
 }
 
 a {
@@ -87,8 +99,7 @@ a:hover{
   font-style: normal;
   font-weight: 700;
   font-size: 2em;
-  line-height: normal;
-  line-height: 0;
+  line-height: 33px;
   color: #DCFCE3;
 }
 
@@ -115,8 +126,7 @@ i {
   font-style: normal;
   font-weight: 700;
   font-size: 2em;
-  line-height: normal;
-  line-height: 0;
+  line-height: 33px;
   color: #DCFCE3;
 }
 
