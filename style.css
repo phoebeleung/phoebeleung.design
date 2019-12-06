@@ -60,7 +60,7 @@ body {
   min-width: 50%;
 }
 
-/* If the screen size is 300px or less, set the font-size of <div> to 80px */
+/* If the screen size is 500px or less, make the following changes */
 @media screen and (max-width: 500px) {
   body {
     font-size: 14px;
@@ -101,13 +101,13 @@ a:hover{
   font-style: normal;
   font-weight: 700;
   font-size: 2em;
-  line-height: 33px;
+  line-height: 38px;
   color: #2D2D2D;
 }
 
 .links{
   padding-left: 90px;
-  padding-bottom: 80px;
+  padding-bottom: 10px;
 }
 
 i {
@@ -128,7 +128,7 @@ i {
   font-style: normal;
   font-weight: 700;
   font-size: 2em;
-  line-height: 33px;
+  line-height: 38px;
   color: #2D2D2D;
 }
 
@@ -137,7 +137,7 @@ i {
   font-style: normal;
   font-weight: 700;
   font-size: 2em;
-  line-height: 33px;
+  line-height: 38px;
   color: #2D2D2D;
 }
 
@@ -148,4 +148,26 @@ i {
 
 .about p{
   padding-left: 40px;
+}
+
+.casebody {
+	padding-left: 50px;
+	padding-bottom:80px;
+}
+
+.casebody p{
+	padding-left: 40px;
+}
+
+.casebody h4{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 1.2em;
+	line-height: 38px;
+	color: #2D2D2D;
+}
+
+.casebody img{
+	  max-width: 700px;
 }
