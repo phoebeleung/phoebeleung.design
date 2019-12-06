@@ -52,8 +52,8 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1em;
   line-height: 1.5;
-  background-color: #FFFDF6;
-  color: #2D2D2D;
+  background-color: #FAECE1;
+  color: #132E4E;
   padding: 0;
   margin: 0;
   max-width: 500px;
@@ -76,14 +76,14 @@ body {
 
 a {
   font-family: Roboto;
-  color: #254178;
-  text-decoration: underline 2px #254178;
+  color: #1E5CA5;
+  text-decoration: underline 2px #1E5CA5;
   font-weight: bold;
 }
 
 a:hover{
-  color: #3D6DCA;
-  text-decoration: underline 2px #3D6DCA;
+  color: #297FE4;
+  text-decoration: underline 2px #297FE4;
   font-weight: bold;
 }
 
@@ -102,7 +102,7 @@ a:hover{
   font-weight: 700;
   font-size: 2em;
   line-height: 38px;
-  color: #2D2D2D;
+  color: #132E4E;
 }
 
 .links{
@@ -129,7 +129,7 @@ i {
   font-weight: 700;
   font-size: 2em;
   line-height: 38px;
-  color: #2D2D2D;
+  color: #132E4E;
 }
 
 .about h3 {
@@ -138,7 +138,7 @@ i {
   font-weight: 700;
   font-size: 2em;
   line-height: 38px;
-  color: #2D2D2D;
+  color: #132E4E;
 }
 
 .about{
@@ -165,7 +165,7 @@ i {
 	font-weight: 700;
 	font-size: 1.2em;
 	line-height: 38px;
-	color: #2D2D2D;
+	color: #132E4E;
 }
 
 .casebody img{
