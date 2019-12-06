@@ -53,7 +53,7 @@ body {
   font-size: 1em;
   line-height: 1.5;
   background-color: #FFFDF6;
-  color: #5E5A4E;
+  color: #2D2D2D;
   padding: 0;
   margin: 0;
   max-width: 500px;
@@ -76,14 +76,14 @@ body {
 
 a {
   font-family: Roboto;
-  color: #608250;
-  text-decoration: underline 2px #608250;
+  color: #254178;
+  text-decoration: underline 2px #254178;
   font-weight: bold;
 }
 
 a:hover{
-  color: #85B270;
-  text-decoration: underline 2px #85B270;
+  color: #3D6DCA;
+  text-decoration: underline 2px #3D6DCA;
   font-weight: bold;
 }
 
@@ -102,7 +102,7 @@ a:hover{
   font-weight: 700;
   font-size: 2em;
   line-height: 33px;
-  color: #5E5A4E;
+  color: #2D2D2D;
 }
 
 .links{
@@ -129,7 +129,7 @@ i {
   font-weight: 700;
   font-size: 2em;
   line-height: 33px;
-  color: #5E5A4E;
+  color: #2D2D2D;
 }
 
 .about h3 {
@@ -138,7 +138,7 @@ i {
   font-weight: 700;
   font-size: 2em;
   line-height: 33px;
-  color: #5E5A4E;
+  color: #2D2D2D;
 }
 
 .about{
