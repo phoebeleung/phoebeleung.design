@@ -52,8 +52,8 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1em;
   line-height: 1.5;
-  background-color: #475A4B;
-  color: #DCFCE3;
+  background-color: #FFFDF6;
+  color: #5E5A4E;
   padding: 0;
   margin: 0;
   max-width: 500px;
@@ -76,14 +76,14 @@ body {
 
 a {
   font-family: Roboto;
-  color: #ffffff;
-  text-decoration: underline 2px #00FFFF;
+  color: #608250;
+  text-decoration: underline 2px #608250;
   font-weight: bold;
 }
 
 a:hover{
-  color: #00FFFF;
-  text-decoration: underline 2px #00FFFF;
+  color: #85B270;
+  text-decoration: underline 2px #85B270;
   font-weight: bold;
 }
 
@@ -102,7 +102,7 @@ a:hover{
   font-weight: 700;
   font-size: 2em;
   line-height: 33px;
-  color: #DCFCE3;
+  color: #5E5A4E;
 }
 
 .links{
@@ -129,7 +129,7 @@ i {
   font-weight: 700;
   font-size: 2em;
   line-height: 33px;
-  color: #DCFCE3;
+  color: #5E5A4E;
 }
 
 .about h3 {
@@ -138,7 +138,7 @@ i {
   font-weight: 700;
   font-size: 2em;
   line-height: 33px;
-  color: #DCFCE3;
+  color: #5E5A4E;
 }
 
 .about{
